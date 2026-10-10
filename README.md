@@ -8,7 +8,7 @@ A five-year Excel LBO model evaluating a hypothetical take-private of H&R Block 
 
 ## Files and links
 
-- **[Download the Excel model](HRB_LBO_Model_Final.xlsx):** formula-driven workbook with assumptions, sources and uses, operating projections, a debt schedule, and returns.
+- **[Download the Excel model](https://github.com/prakharss9/h-r_block_lbo_model/blob/09e87f601655bd77b1ddec9dcd08c662dad09b51/H%26R%20Block%20LBO%20Model.xlsx):** formula-driven workbook with assumptions, sources and uses, operating projections, a debt schedule, and returns.
 - **[Read the detailed analysis](https://gist.github.com/prakharss9/60eced64fae448a46358eaf7cfd9e4ec):** project write-up with scenario results and sensitivity tables.
 
 Download the workbook and open it in Microsoft Excel to inspect the formulas. This README assumes the file is uploaded at the repository root under its original filename, `HRB_LBO_Model_Final.xlsx`.
