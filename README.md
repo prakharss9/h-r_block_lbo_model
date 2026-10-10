@@ -91,5 +91,3 @@ The model uses beginning-of-year interest balances, simplified working capital, 
 **Prakhar Singh Sisodia**  
 Boston University, Questrom School of Business | Finance & Banking  
 [LinkedIn](https://linkedin.com/in/prakharsisodia)
-
-Prepared with AI assistance as an academic learning project. Hypothetical analysis only; not investment advice, an actual transaction, or an offer of financing.
